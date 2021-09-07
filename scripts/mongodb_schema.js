@@ -4,7 +4,7 @@
 // Use Ctrl+Space inside a snippet or a string literal to trigger completions.
 
 // Select the database to use.
-use("mongodbVSCodePlaygroundDB");
+use("trabalho");
 
 db.createCollection("Subscription", {
   validator: {
